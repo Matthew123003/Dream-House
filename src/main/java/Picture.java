@@ -156,6 +156,6 @@ public class Picture {
       roof.changeColor("green");
       sun.changeColor("yellow");
     }
-  }
+  }//To finish commit message
 
 }
